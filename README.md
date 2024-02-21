@@ -1,1 +1,1 @@
-# agricutlural_modeling
+# agricultural_modeling
